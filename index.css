@@ -16,7 +16,7 @@ html, body {
   border-radius: 6%;
   grid-gap: 11px;
   padding: 20px;
-  background-color: #bc88b2;
+  background-color: palevioletred;
 }
 .box {
   text-align: center;
@@ -29,10 +29,10 @@ html, body {
   font-size: 2rem;
 }
 .color1 {
-  background-color: #ffd4d4;
+  background-color: #f9d4cf;
 }
 .color2 {
-  background-color: #c2c3db;
+  background-color: #bcace0;
 }
 #back-arrow:hover {
   width: 60px;
