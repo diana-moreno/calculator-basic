@@ -1,4 +1,4 @@
-## CALCULATOR
+## BASIC CALCULATOR
 
 <p align="center">
   <img src="./img/calculator-basic.png" width="200">
